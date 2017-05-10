@@ -1,6 +1,8 @@
 package com.wchuang.structural.bridge;
 
 /**
+ * 桥接模式: 将抽象部分与它的实现部分分离, 是它们都可以独立地变化, 利用关联取代多层继承
+ *
  * @author coderhuang
  * @time 2017/5/9 9:47
  */
